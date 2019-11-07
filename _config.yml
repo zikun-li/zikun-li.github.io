@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ziqi Pang"
-  avatar           : "head-image.jpg"
+  avatar           : "images/head-image.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Beijing-China"
   employer         :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ziqipang"
+  github           : "ziqipang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ziqi-pang-8b5992158/"
+  linkedin         : "ziqi-pang-8b5992158/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/ZiqiPang"
+  twitter          : "ZiqiPang"
   vine             :
   weibo            :
   xing             :
