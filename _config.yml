@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Beijing-China"
-title                    : "ZiqiPang / Senior Undergraduate at Peking University"
+title                    : "ZiqiPang / CS Undergraduate at Peking University"
 title_separator          : "-"
 name                     : &name "Ziqi Pang"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ziqi Pang"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
