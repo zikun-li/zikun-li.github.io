@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-ics
 venue: "Peking University, Department of Computer Science"
-date: Fall 2018
+date: 2018-09-01
 location: "Beijing, China"
 ---
 
