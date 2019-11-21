@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student majoring computer science at Peking University. Last summer, I have carried out summer research at Carnegie Mellon University with Prof. Martial Hebert on Few-shot Learning. During my past study, I have participated in the computer vision & deep learning research in Prof. Shiliang Zhang's lab.
+I am Ziqi Pang, a senior year undergraduate student majoring in computer science in Peking University.My research interest lies widely in the scope of computer vision and machine learning and I hope to prolong my career in the same field.
 
-For the time being, I am applying for the graduate schools in USA, Canada and Europe.
+During the summer of 2019, I experienced a wonderful period of time at Carnegie Mellon University during my summer research intern for Prof. [Martial Hebert](https://www.ri.cmu.edu/ri-faculty/martial-hebert/). We worked on exploring learning better feature representation for few-shot learning. Throughout the process, [Zhiyuan Hu](https://github.com/BinahHu) from Tsinghua University collaborated closely with me, [Yuxiong Wang](https://www.ri.cmu.edu/ri-people/yuxiong-wang/) and [Pavel Tokmakov](https://pvtokmakov.github.io/home/) offered their valuable guidance on research. Currently our paper is under review of CVPR 2020. Hopefull the paper and the code will soon appear publicly.
+
+Since June 2018, I have worked in Prof. [Shiliang Zhang](https://www.pkuvmc.com/)'s laborotary on computer vision, including a project on unsupervised feature learning and another on image synthesis. The second project is still on-going for refinement and future conference submission (ECCV2020 perhaps).
+
+From November 2018, I have participated in a discussion group on Computer Vision and Machine Learning [Seminar Syllabus](http://tianyuanzhang.com/teaching/2019-fall-dl-pku) initiated along with my fellow peers [Tianyuan Zhang](http://tianyuanzhang.com/) and [Yilun Xu](https://www.yilunxu.com/). This seminar generally requires strong motivation of research in the field of deep learning and contribution in the form of lectures from every participants. So if you are at Peking University right now and already have basic understanding in the very field, do not hesistate to contact us and become a member.
+
+## Research Interest
+
