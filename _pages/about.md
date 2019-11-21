@@ -28,4 +28,4 @@ Specifically, I have strong interest in three tasks:
 Under construction, coming soon
 
 # Resume
-[Ziqi Pang Resume](../files/Ziqi_Pang_Resume.pdf)
+[Ziqi Pang Resume](https://github.com/ziqipang/ziqipang.github.io/blob/master/files/ZiqiPang_Resume.pdf)
