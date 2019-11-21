@@ -8,4 +8,8 @@ date: 2018-09-01
 location: "Beijing, China"
 ---
 
-ICS, the short for “Introduction to Computer System” is a famous and hard-core course introduced from CMU into PKU. As a TA, my responsibility is running a weekly seminar of 14 students, including but not limited to: preparing discussion materials, supervising on presentations, correct homework, etc.
+Introduction to Computer System [<i>for more details</i>](https://www.cs.cmu.edu/afs/cs/academic/class/15213-f19/www/) is a course in Peking University introduced from Carnegie Mellon University. As the teaching assistant, I was responsible for:
+
+* Hosting weekly discussion of 14 students
+* Offering guidance on homework and labs
+* Making up questions for excercise and exams
