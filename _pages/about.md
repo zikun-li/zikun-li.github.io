@@ -19,4 +19,8 @@ From November 2018, I have participated in a discussion group on Computer Vision
 # Research Interest
 Because of the diversity of my past projects, I bear wide interest in various topics. But the questions I mainly care about includes:
 * Understanding visual information from the angle of shape and semantic meaning.
-  
+
+In order to achive such objective, I mainly care about three tasks:
+* Few-shot Learning
+* Multi-task Learning
+* Image Synthesis
