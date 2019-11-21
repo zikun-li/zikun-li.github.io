@@ -16,5 +16,7 @@ Since June 2018, I have worked in Prof. [Shiliang Zhang](https://www.pkuvmc.com/
 
 From November 2018, I have participated in a discussion group on Computer Vision and Machine Learning [Seminar Syllabus](http://tianyuanzhang.com/teaching/2019-fall-dl-pku) initiated along with my fellow peers [Tianyuan Zhang](http://tianyuanzhang.com/) and [Yilun Xu](https://www.yilunxu.com/). This seminar generally requires strong motivation of research in the field of deep learning and contribution in the form of lectures from every participants. So if you are at Peking University right now and already have basic understanding in the very field, do not hesistate to contact us and become a member.
 
-## Research Interest
-
+# Research Interest
+Because of the diversity of my past projects, I bear wide interest in various topics. But the questions I mainly care about includes:
+* Understanding visual information from the angle of shape and semantic meaning.
+  
