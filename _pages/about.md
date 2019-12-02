@@ -23,6 +23,9 @@ Specifically, I have strong interest in three tasks:
 # Publication
 [Learning Generalizable Representations via Diverse Supervision](https://arxiv.org/abs/1911.12911), <b> Ziqi Pang\*</b>, Zhiyuan Hu\*, Pavel Tokmakov, Yuxiong Wang, Martial Hebert (\* indicates equal contribution) 
 
+# Seminar
+[Weekly Seminar on Deep Learning](http://tianyuanzhang.com/teaching/2019-fall-dl-pku)
+
 # Resume
 [Ziqi Pang Resume](https://github.com/ziqipang/ziqipang.github.io/blob/master/files/ZiqiPang_Resume.pdf)
 
