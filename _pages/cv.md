@@ -29,7 +29,7 @@ Work experience
     * Proposed geometric based preprocessing operations to preserve the salient visual details from source images
     * Combined information from multiple source images into a single target using a self-supervised learned
     * Superseded the visual quality of the state-of-the-art on Market-1501 and CUHK-03
-  * Unsupervised Feature Learning for Person Re-Identification， June 2018 - Sept 2018
+  * Unsupervised Feature Learning for Person Re-Identification
     * Leveraged instance-level visual similarity for unsupervised representation learning for Person Re-ID
     * Reduced the amount of required training data for downstream tasks, with only 40% annotation needed during the fine-tuning process
 
