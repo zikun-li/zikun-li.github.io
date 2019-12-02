@@ -10,7 +10,7 @@ redirect_from:
 
 I am Ziqi Pang, a senior year undergraduate student majoring in computer science in Peking University. My research interest lies widely in the scope of computer vision and machine learning and I hope to prolong my career in the same field. I am thankful for all the people that have helped me, especially my parents and my dear mentors Prof. [Shiliang Zhang](https://www.pkuvmc.com/) and Prof. [Martial Hebert](https://www.ri.cmu.edu/ri-faculty/martial-hebert/).
 
-For the time being, I am applying for graduate school (Master Degree) in computer science. May the force be with me!
+For the time being, I am applying for graduate school (Master Degree) in computer science. Simultaneously, I am enthusiastic in exploring and expanding my career for the next half year. Please contact me if you are interested.
 
 # Brief Experience 
 During the summer of 2019, I experienced a wonderful period of time at Carnegie Mellon University during my summer research intern for Prof. [Martial Hebert](https://www.ri.cmu.edu/ri-faculty/martial-hebert/). We worked on exploring learning better feature representation for few-shot learning. Throughout the process, [Zhiyuan Hu](https://github.com/BinahHu) from Tsinghua University collaborated closely with me, [Yuxiong Wang](https://www.ri.cmu.edu/ri-people/yuxiong-wang/) and [Pavel Tokmakov](https://pvtokmakov.github.io/home/) offered their valuable guidance on research. Currently our paper is under review of CVPR 2020. Hopefull the paper and the code will soon appear publicly.
@@ -27,8 +27,8 @@ Specifically, I have strong interest in three tasks:
 * <b>Multi-Task Learning</b>: why seemingly related tasks hardly benefit each other?
 * <b>Image Synthesis</b>: how to synthesize outputs retaining the details and structure from source images?
 
-# Related Project
-Under construction, coming soon
+# Publication
+[Learning Generalizable Representations via Diverse Supervision](https://arxiv.org/abs/1911.12911), <b> Ziqi Pang\*</b>, Zhiyuan Hu\*, Pavel Tokmakov, Yuxiong Wang, Martial Hebert (\* indicates equal contribution) 
 
 # Resume
 [Ziqi Pang Resume](https://github.com/ziqipang/ziqipang.github.io/blob/master/files/ZiqiPang_Resume.pdf)
