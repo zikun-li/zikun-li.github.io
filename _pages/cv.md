@@ -13,6 +13,10 @@ Education
 ======
 * B.S. in Computer Science, Peking University, GPA 3.71/4.00 (Top 15%), 2016 -- 2020
 
+Honors and Awards
+======
+M Prize in Mathematical Contest in Modeling (<i>Apr. 2019, Top 1% ~10% Worldwide</i>); 2nd Prize in Beijing Undergraduates’ Math Competition (<i>Oct. 2017</i>); Kwang-hua Scholarship (<i>Dec. 2017, Top 10% Overall in School</i>); Outstanding Student Award (<i>Sept. 2017, Sept. 2018</i>); Founder Scholarship (<i>Nov. 2018, Top 10% Overall in School</i>); Peking University Scholarship (<i>Sept. 2019, Top 15% overall in School</i>)
+
 Work experience
 ======
 * Robotics Institute, Carnegie Mellon University, Research Intern for Prof. Martial Hebert, June 2019 -- Aug 2019
@@ -25,6 +29,9 @@ Work experience
     * Proposed geometric based preprocessing operations to preserve the salient visual details from source images
     * Combined information from multiple source images into a single target using a self-supervised learned
     * Superseded the visual quality of the state-of-the-art on Market-1501 and CUHK-03
+  * Unsupervised Feature Learning for Person Re-Identification， June 2018 - Sept 2018
+    * Leveraged instance-level visual similarity for unsupervised representation learning for Person Re-ID
+    * Reduced the amount of required training data for downstream tasks, with only 40% annotation needed during the fine-tuning process
 
 Publications
 ======
