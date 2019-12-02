@@ -45,4 +45,4 @@ Teaching
   
 Service and leadership
 ======
-* Forum for American-Chinese Exchange at Stanford University, Organizer, Mar 2017 -- Mar 2019
+* [Forum for American-Chinese Exchange at Stanford University](https://faces.stanford.edu/), Organizer, Mar 2017 -- Mar 2019
