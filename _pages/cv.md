@@ -11,11 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Peking University, GPA 3.71/4.00 (Top 15%), 2016 -- 2020
+* B.S. in Computer Science, Peking University, 2017 -- 2021
 
 Honors and Awards
 ======
-M Prize in Mathematical Contest in Modeling (<i>Apr. 2019, Top 1% ~10% Worldwide</i>); 2nd Prize in Beijing Undergraduates’ Math Competition (<i>Oct. 2017</i>); Kwang-hua Scholarship (<i>Dec. 2017, Top 10% Overall in School</i>); Outstanding Student Award (<i>Sept. 2017, Sept. 2018</i>); Founder Scholarship (<i>Nov. 2018, Top 10% Overall in School</i>); Peking University Scholarship (<i>Sept. 2019, Top 15% overall in School</i>)
+The Third Prize Scholarship (<i>2020, Peking University</i>)
+
+Model Student of Academic Record (<i>2020, Peking University</i>); 
 
 Work experience
 ======

@@ -25,8 +25,7 @@ Specifically, I have strong interest in three tasks:
 # Publication
 [WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams](https://arxiv.org/abs/1911.12911),  Jizhou Li\*, <b>Zikun Li\*</b>, Yifei Xu\*, Shiqi Jiang, Tong Yang, Bin Cui, Yafei Dai and Gong Zhang. (\* indicates equal contribution) 
 
-# Seminar
-[Weekly Seminar on Deep Learning](http://tianyuanzhang.com/teaching/2019-fall-dl-pku)
+[WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams](https://arxiv.org/abs/1911.12911),  Jizhou Li\*, <b>Zikun Li\*</b>, Yifei Xu\*, Shiqi Jiang, Tong Yang, Bin Cui, Yafei Dai and Gong Zhang. (\* indicates equal contribution) 
 
 # Resume
 [Ziqi Pang Resume](https://github.com/ziqipang/ziqipang.github.io/blob/master/files/ZiqiPang_Resume.pdf)
