@@ -21,7 +21,7 @@ Specifically, I have strong interest in three tasks:
 * <b>Image Synthesis</b>: how to synthesize outputs retaining the details and structure from source images?
 
 # Publication
-[Learning Generalizable Representations via Diverse Supervision](https://arxiv.org/abs/1911.12911), <b> Ziqi Pang\*</b>, Zhiyuan Hu\*, Pavel Tokmakov, Yuxiong Wang, Martial Hebert (\* indicates equal contribution) 
+[WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams](https://arxiv.org/abs/1911.12911),  Jizhou Li\*, <b>Zikun Li\*</b>, Yifei Xu\*, Shiqi Jiang, Tong Yang, Bin Cui, Yafei Dai and Gong Zhang. (\* indicates equal contribution) 
 
 # Seminar
 [Weekly Seminar on Deep Learning](http://tianyuanzhang.com/teaching/2019-fall-dl-pku)

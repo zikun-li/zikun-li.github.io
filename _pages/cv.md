@@ -35,7 +35,7 @@ Work experience
 
 Publications
 ======
-  [WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams](https://arxiv.org/abs/1911.12911), <b> Jizhou Li\*</b>, Zikun Li\*, Yifei Xu, Shiqi Jiang, Tong Yang, Bin Cui, Yafei Dai and Gong Zhang. (\* indicates equal contribution) 
+  [WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams](https://arxiv.org/abs/1911.12911),  Jizhou Li\*, <b>Zikun Li\*</b>, Yifei Xu\*, Shiqi Jiang, Tong Yang, Bin Cui, Yafei Dai and Gong Zhang. (\* indicates equal contribution) 
   
 Teaching
 ======
