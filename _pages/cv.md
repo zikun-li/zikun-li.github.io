@@ -35,7 +35,7 @@ Work experience
 
 Publications
 ======
-  [Learning Generalizable Representations via Diverse Supervision](https://arxiv.org/abs/1911.12911), <b> Ziqi Pang\*</b>, Zhiyuan Hu\*, Pavel Tokmakov, Yuxiong Wang, Martial Hebert (\* indicates equal contribution) 
+  [WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams](https://arxiv.org/abs/1911.12911), <b> Ziqi Pang\*</b>, Zhiyuan Hu\*, Pavel Tokmakov, Yuxiong Wang, Martial Hebert (\* indicates equal contribution) 
   
 Teaching
 ======
