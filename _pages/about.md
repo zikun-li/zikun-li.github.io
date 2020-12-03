@@ -15,12 +15,6 @@ I am honored to have worked with Prof. [Tong Yang](http://net.pku.edu.cn/~yangto
 For the time being, I am applying for graduate school in computer science.
 
 # Research Interest
-Because of the diversity of my past projects, I bear wide interest in various topics. I have strong motivation in enabling computer vision systems to <b>Understand Vision from Shape and Semantic Information</b>, which is critical to expanding the effectiveness of computer vision methods. 
-
-Specifically, I have strong interest in three tasks:
-* <b>Few-Shot Learning</b>: how to transfer to new domains with few examples?
-* <b>Multi-Task Learning</b>: why seemingly related tasks hardly benefit each other?
-* <b>Image Synthesis</b>: how to synthesize outputs retaining the details and structure from source images?
 
 # Publication
 [WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams](https://dl.acm.org/doi/abs/10.1145/3394486.3403208),  Jizhou Li\*, <b>Zikun Li\*</b>, Yifei Xu\*, Shiqi Jiang, Tong Yang, Bin Cui, Yafei Dai and Gong Zhang. (\* indicates equal contribution) 
