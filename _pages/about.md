@@ -12,7 +12,7 @@ I am Ziqi Pang, a senior year undergraduate student majoring in computer science
 
 I am honored to have worked with Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/) at Peking University to learn different algorithms in data analysis and networking measurement, and Prof. [Jiannan Wang](https://www2.cs.sfu.ca/~jnwang/) at SFU on project SQL-Gen, which aims to 
 
-For the time being, I am applying for graduate school (Master Degree) in computer science. Simultaneously, I am enthusiastic in exploring and expanding my career for the next half year. Please contact me if you are interested.
+For the time being, I am applying for graduate school in computer science.
 
 # Research Interest
 Because of the diversity of my past projects, I bear wide interest in various topics. I have strong motivation in enabling computer vision systems to <b>Understand Vision from Shape and Semantic Information</b>, which is critical to expanding the effectiveness of computer vision methods. 
