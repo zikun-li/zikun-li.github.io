@@ -9,7 +9,7 @@
 locale                   : "Beijing-China"
 title                    : "Zikun Li's Home Page"
 title_separator          : "-"
-name                     : &name "Ziqi Pang"
+name                     : &name "Zikun Li"
 description              : &description "personal description"
 url                      : https://ziqipang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ziqi-pang-8b5992158/"
+  linkedin         : "子锟-李-1a2a7b1a4/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ZiqiPang"
+  twitter          : "lizikun1"
   vine             :
   weibo            :
   xing             :
