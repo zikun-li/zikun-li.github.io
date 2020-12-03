@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Beijing-China"
-title                    : "Ziqi Pang's Home Page"
+title                    : "Zikun Li's Home Page"
 title_separator          : "-"
 name                     : &name "Ziqi Pang"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zikun Li"
   avatar           : "head-image.png"
-  bio              : "ziqipang@pku.edu.cn"
+  bio              : "lizikun@pku.edu.cn"
   location         : "Beijing-China"
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ziqipang"
+  github           : "zikun-li"
   google_plus      :
   keybase          :
   instagram        :
