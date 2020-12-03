@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Ziqi Pang, a senior year undergraduate student majoring in computer science in Peking University. My research interest lies widely in the scope of computer vision and machine learning and I hope to prolong my career in the same field. I am thankful for all the people that have helped me, especially my parents and my dear mentors Prof. [Shiliang Zhang](https://www.pkuvmc.com/) and Prof. [Martial Hebert](https://www.ri.cmu.edu/ri-faculty/martial-hebert/).
+I am honored to have worked with Prof. Tong Yang. at Peking University to learn different algorithms in data analysis and networking measurement, and Prof. Kevin Chang at UIUC on project DataSpread, which aims to combine the intuitiveness and flexibility of spreadsheets and the scalability and power of databases.
+
+
 
 For the time being, I am applying for graduate school (Master Degree) in computer science. Simultaneously, I am enthusiastic in exploring and expanding my career for the next half year. Please contact me if you are interested.
 
