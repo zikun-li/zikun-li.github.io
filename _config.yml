@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zikun Li"
-  avatar           : "head-image.png"
+  avatar           : # "head-image.png"
   bio              : "lizikun@pku.edu.cn"
   location         : "Beijing-China"
   employer         :
