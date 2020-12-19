@@ -31,7 +31,7 @@ A detailed pdf version can be found [here](https://zikun-li.github.io/files/Ziku
 - Tools: Git, Github, Docker, Oracle, MySQL, Nginx, Redis
 - Frameworks: Pandas, PyTorch, TensorFlow, Keras
 
-## Research experience
+## Research Experience
 
 - <b>A Sketch-Based Burst Detection Algorithm in High-Speed Data Streams</b>
   - Peking University, Beijing, China, Mar 2020 - Dec 2020
