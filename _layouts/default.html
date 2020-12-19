@@ -8,8 +8,6 @@ layout: compress
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
 
 <head>
-  {% include head.html %}
-  {% include head/custom.html %}
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-R5RMM1ZWFK"></script>
   <script>
@@ -19,6 +17,8 @@ layout: compress
 
     gtag('config', 'G-R5RMM1ZWFK');
   </script>
+  {% include head.html %}
+  {% include head/custom.html %}
 </head>
 
 <body>
