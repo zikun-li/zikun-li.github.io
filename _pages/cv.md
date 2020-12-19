@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Peking University, 2017 -- 2021
+* B.S. in Computer Science, Peking University, 2017 -- 2021(expected)
 
 Honors and Awards
 ======

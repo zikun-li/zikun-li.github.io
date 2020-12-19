@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zikun Li, a senior year undergraduate student majoring in computer science in Peking University. My research interest lies widely in the scope of database and networking, and I am also enthusiastic in exploring other fields such as machine learning. 
+I am Zikun Li, a senior year undergraduate student majoring in computer science in Peking University. 
 
 I am honored to have worked with Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/) at Peking University to learn different algorithms in data analysis and networking measurement, and Prof. [Jiannan Wang](https://www2.cs.sfu.ca/~jnwang/) at SFU on project SQL-Gen, which aims to devised an algorithm that automatically generates SQL expressions which selects certain information from data tables for the machine learning model.
 
