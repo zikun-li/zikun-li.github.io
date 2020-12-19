@@ -9,30 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-A pdf version can be found [here](https://zikun-li.github.io/files/Zikun_Li_CV.pdf)
+A detailed pdf version can be found [here](https://zikun-li.github.io/files/Zikun_Li_CV.pdf).
 
-# Education
-======
+## Education
+
 - Bachelor of Science in Computer Science and Technology, Peking University, 2017 -- 2021(expected)
 
-### Honors and Awards
-======
+## Honors and Awards
+
 - The Third Prize Scholarship (<i>2020, Peking University</i>)
 
 - Model Student of Academic Record (<i>2020, Peking University</i>); 
 
-Publications
-======
+## Publications
+
 - [WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams](https://dl.acm.org/doi/abs/10.1145/3394486.3403208),  Jizhou Li\*, <b>Zikun Li\*</b>, Yifei Xu\*, Shiqi Jiang, Tong Yang, Bin Cui, Yafei Dai and Gong Zhang. (\* indicates equal contribution) 
 
-Technical Skills
-======
+## Technical Skills
+
 - Language: C/C++, Java, Python, SQL, Javascript
 - Tools: Git, Github, Docker, Oracle, MySQL, Nginx, Redis
 - Frameworks: Pandas, PyTorch, TensorFlow, Keras
 
-Research experience
-======
+## Research experience
 
 - <b>A Sketch-Based Burst Detection Algorithm in High-Speed Data Streams</b>
   - Peking University, Beijing, China, Mar 2020 - Dec 2020
