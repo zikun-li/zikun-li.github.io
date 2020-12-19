@@ -16,5 +16,7 @@ For the time being, I am applying for graduate school in computer science.
 
 # Research Interest
 
+My research interests lie broadly in database, distributed systems, machine learning systems and their intersections.
+
 # Publication
 [WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams](https://dl.acm.org/doi/abs/10.1145/3394486.3403208),  Jizhou Li\*, <b>Zikun Li\*</b>, Yifei Xu\*, Shiqi Jiang, Tong Yang, Bin Cui, Yafei Dai and Gong Zhang. (\* indicates equal contribution) 
