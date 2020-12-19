@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A pdf version can be found [here](https://zikun-li.github.io/files/Zikun_Li_CV.pdf)
+
 Education
 ======
 - Bachelor of Science in Computer Science and Technology, Peking University, 2017 -- 2021(expected)
