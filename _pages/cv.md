@@ -15,7 +15,7 @@ A pdf version can be found [here](https://zikun-li.github.io/files/Zikun_Li_CV.p
 ======
 - Bachelor of Science in Computer Science and Technology, Peking University, 2017 -- 2021(expected)
 
-Honors and Awards
+### Honors and Awards
 ======
 - The Third Prize Scholarship (<i>2020, Peking University</i>)
 
