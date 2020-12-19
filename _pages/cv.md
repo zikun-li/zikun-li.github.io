@@ -26,7 +26,7 @@ Publications
 Technical Skills
 ======
 - Language: C/C++, Java, Python, SQL, Javascript
-- Tools: Git, Github, Docker, Oracle, MySQL, Nginx, Redis, Hadoop, Spark
+- Tools: Git, Github, Docker, Oracle, MySQL, Nginx, Redis
 - Frameworks: Pandas, PyTorch, TensorFlow, Keras
 
 Research experience
