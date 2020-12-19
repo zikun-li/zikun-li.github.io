@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Science in Computer Science and Technology, Peking University, 2017 -- 2021(expected)
+- Bachelor of Science in Computer Science and Technology, Peking University, 2017 -- 2021(expected)
 
 Honors and Awards
 ======
