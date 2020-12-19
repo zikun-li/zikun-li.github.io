@@ -26,5 +26,5 @@ Publications
 Research experience
 ======
 
-- A Sketch-Based Burst Detection Algorithm in High-Speed Data Streams 
-  Research Assistant, Peking University, Advisor: Dr. Tong Yang 
+- A Sketch-Based Burst Detection Algorithm in High-Speed Data Streams
+  - Research Assistant, Peking University, Advisor: Dr. Tong Yang 
