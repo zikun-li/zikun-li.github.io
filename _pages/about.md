@@ -20,8 +20,14 @@ My research interests lie broadly in database, distributed systems, machine lear
 
 # Publication
 - [WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams](https://dl.acm.org/doi/abs/10.1145/3394486.3403208)
+
   Jizhou Li\*, <b>Zikun Li\*</b>, Yifei Xu\*, Shiqi Jiang, Tong Yang, Bin Cui, Yafei Dai and Gong Zhang. (\* indicates equal contribution) 
+
   In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (SIGKDD), August 2020
+
 - BurstSketch: Finding Bursts in Data Streams
+
   Zheng Zhong\*, Shen Yan\*, <b>Zikun Li\*</b>, Decheng Tan and Tong Yang. (\* indicates equal contribution)
+
   *To appear on SIGMOD 2021* 
+
