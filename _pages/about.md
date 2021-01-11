@@ -14,6 +14,10 @@ I am honored to have worked with Prof. [Tong Yang](http://net.pku.edu.cn/~yangto
 
 For the time being, I am applying for graduate school in computer science.
 
+# News
+
+2020/1/11 BurstSketch got accepted by SIGMOD 2021!
+
 # Research Interest
 
 My research interests lie broadly in database, distributed systems, machine learning systems and their intersections.
