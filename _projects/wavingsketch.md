@@ -4,3 +4,4 @@ excerpt: "Short description of Projects item number 1<br/><img src='/images/500x
 collection: Projects
 permalink: /Projects/wavingsketch
 ---
+<img src='/images/500x300.png'>
