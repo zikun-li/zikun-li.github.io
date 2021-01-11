@@ -25,5 +25,5 @@ My research interests lie broadly in database, distributed systems, machine lear
 
 - BurstSketch: Finding Bursts in Data Streams  
   Zheng Zhong\*, Shen Yan\*, <b>Zikun Li\*</b>, Decheng Tan and Tong Yang. (\* indicates equal contribution)  
-  *To appear on SIGMOD 2021* 
+  *To appear at SIGMOD 2021* 
 
