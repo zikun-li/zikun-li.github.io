@@ -8,10 +8,10 @@ author_profile: true
 {% include base_path %}
 
 <h2><a href="https://zikun-li.github.io/Projects/wavingsketch">WavingSketch: An Unbiased and Generic Sketch for Finding
-        Top-k Items in Data Streams</a>
+                Top-k Items in Data Streams</a>
 </h2>
 
-<img src="/images/struct.png" style="float:right;height:250px;" />
+<img src="/images/struct.png" style="float:right;width:450px;" />
 
 Finding top-kitems in data streams is a fundamental problem in data mining. Existing algorithms that can achieve
 unbiased estimation suffer from poor accuracy. In this paper, we propose a newsketch, WavingSketch, which is much more
@@ -28,7 +28,21 @@ other applications, WavingSketch can also achieveup to286times lower error rate.
 
 <h2>BurstSketch: Finding Bursts in Data Streams</h2>
 
+<img src="/images/burstsketch.png" style="float:right;width:450px;" />
+
+Burstis a common pattern in data streams which is characterizedby a sudden increase in terms of arrival rate followed by
+a suddendecrease. Burst detection has attracted extensive attention fromthe research community. In this paper, we
+propose a novel sketch,namely BurstSketch, to detect bursts accurately in real time. BurstS-ketch first uses the
+technique Running Track to select potentialburst items efficiently, and then monitors the potential burst itemsand
+capture the key features of burst pattern by a technique calledSnapshotting. Experimental results show that our sketch
+achievesa 1.75 times higher recall rate than the strawman solution.
+
 <h2>PKURanking</h2>
+
+<h2>A CNN Accelerator on FPGA</h2>
+
+<h2>Other Interesting Projects</h2>
+
 ​
 
 {% for post in site.Projects %}
