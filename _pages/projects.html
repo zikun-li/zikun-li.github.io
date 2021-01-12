@@ -7,25 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<h2><a href="https://zikun-li.github.io/Projects/wavingsketch">WavingSketch: An Unbiased and Generic Sketch for Finding
-                Top-k Items in Data Streams</a>
-</h2>
-
-<img src="/images/struct.png" style="float:right;width:500px;" />
-
-Finding top-kitems in data streams is a fundamental problem in data mining. Existing algorithms that can achieve
-unbiased estimation suffer from poor accuracy. In this paper, we propose a newsketch, WavingSketch, which is much more
-accurate
-than exist-ing unbiased algorithms. WavingSketch is generic, and we showhow it can be applied to four applications:
-finding top-kfrequentitems, finding top-kheavy changes, finding top-kpersistent items,and finding top-kSuper-Spreaders.
-We theoretically prove thatWavingSketch can provide unbiased estimation, and then give anerror bound of our algorithm.
-Our experimental results show that,compared with the state-of-the-art, WavingSketch has4.50timeshigher insertion speed
-and up to9×106times (2×104times inaverage) lower error rate in finding frequent items when memorysize is tight. For
-other applications, WavingSketch can also achieveup to286times lower error rate.
-
-
-<h2>SQL-Gen</h2>
-
 <h2>BurstSketch: Finding Bursts in Data Streams</h2>
 
 <img src="/images/burstsketch.png" style="float:right;width:500px;" />
@@ -37,6 +18,31 @@ technique Running Track to select potentialburst items efficiently, and then mon
 capture the key features of burst pattern by a technique calledSnapshotting. Experimental results show that our sketch
 achievesa 1.75 times higher recall rate than the strawman solution.
 
+<h2>SQL-Gen</h2>
+
+<h2><a href="https://zikun-li.github.io/Projects/wavingsketch">WavingSketch: An Unbiased and Generic Sketch for Finding
+                Top-k Items in Data Streams</a>
+</h2>
+
+<img src="/images/struct.png" style="float:right;width:500px;" />
+
+Finding top-kitems in data streams is a fundamental problem in data stream mining. Existing algorithms that can achieve
+unbiased estimation suffer from poor accuracy. In this paper, we propose a new sketch, WavingSketch, which is much more
+accurate
+than existing unbiased algorithms. WavingSketch is generic for it can be applied to four applications:
+finding top-k frequentitems, finding top-k heavy changes, finding top-k persistent items,and finding top-k
+Super-Spreaders.
+We theoretically prove that WavingSketch can provide unbiased estimation, and then give an error bound of our algorithm.
+Our experimental results show that,compared with the state-of-the-art, WavingSketch has 4.50 times higher insertion
+speed
+and up to 9×10^6 times (2×10^4 times in average) lower error rate in finding frequent items when memory size is tight.
+For
+other applications, WavingSketch can also achieve up to 286 times lower error rate.
+
+
+<h2>SQL-Gen</h2>
+
+
 <h2>A CNN Accelerator on FPGA</h2>
 
 <h2>PKURanking</h2>
@@ -44,6 +50,7 @@ achievesa 1.75 times higher recall rate than the strawman solution.
 <a href="http://pkuranking.com">PKURanking</a> is a website inspired from <a
         href="http://csrankings.org">csrankings</a>.
 
+<img src="/images/pkuranking.jpg" style="float:right;width:500px;" />
 
 
 <h2>Other Interesting Projects</h2>
