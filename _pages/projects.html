@@ -77,7 +77,13 @@ upgrading it, and hope that our effort will make some change.
 
 <h2>Other Interesting Projects</h2>
 
-​
+<h3>Accelerate Hines Algorithm with GPU</h3>
+
+Hines algorithm is a widely-used algorithm in computational neuroscience. In this project, I devised an mechanism to
+utilize GPU to parallelize Hines algorithm. Hines algorithm involves conducting computation on a tree structure. I
+paralize the process by dividing the tree into branches with CPU and conducting the computation on branches with
+GPU. The reason is that computation on branches with same depth can be done simultaneously. After GPU finish computing,
+I use CPU to merge the results. My mechanism lowers the latency by at most 12.4 times.
 
 {% for post in site.Projects %}
 {% include archive-single.html %}
