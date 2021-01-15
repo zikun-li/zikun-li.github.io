@@ -12,8 +12,7 @@ author_profile: true
 <img src="/images/burstsketch.png" style="float:right;width:500px;" />
 
 Burst is a common pattern in data streams which is characterized by a sudden increase in terms of arrival rate followed
-by
-a sudden decrease. Burst detection has attracted extensive attention from the research community. In this paper, we
+by a sudden decrease. Burst detection has attracted extensive attention from the research community. In this paper, we
 propose a novel sketch, namely BurstSketch, to detect bursts accurately in real time. BurstSketch first uses the
 technique Running Track to select potential burst items efficiently, and then monitors the potential burst items and
 capture the key features of burst pattern by a technique called Snapshotting. Experimental results show that our sketch
@@ -25,18 +24,14 @@ achieves a 1.75 times higher recall rate than the strawman solution.
 
 <img src="/images/struct.png" style="float:right;width:500px;" />
 
-Finding top-kitems in data streams is a fundamental problem in data stream mining. Existing algorithms that can achieve
+Finding top-k items in data streams is a fundamental problem in data stream mining. Existing algorithms that can achieve
 unbiased estimation suffer from poor accuracy. In this paper, we propose a new sketch, WavingSketch, which is much more
-accurate
-than existing unbiased algorithms. WavingSketch is generic for it can be applied to four applications:
+accurate than existing unbiased algorithms. WavingSketch is generic for it can be applied to four applications:
 finding top-k frequentitems, finding top-k heavy changes, finding top-k persistent items,and finding top-k
-Super-Spreaders.
-We theoretically prove that WavingSketch can provide unbiased estimation, and then give an error bound of our algorithm.
-Our experimental results show that,compared with the state-of-the-art, WavingSketch has 4.50 times higher insertion
-speed
-and up to 9×10^6 times (2×10^4 times in average) lower error rate in finding frequent items when memory size is tight.
-For
-other applications, WavingSketch can also achieve up to 286 times lower error rate.
+Super-Spreaders. We prove that WavingSketch can provide unbiased estimation, and then give an error bound
+. Our experimental results show that,compared with the state-of-the-art, WavingSketch has 4.50 times higher
+insertion speed and up to 9×10^6 times (2×10^4 times in average) lower error rate in finding frequent items when memory
+size is tight. For other applications, WavingSketch can also achieve up to 286 times lower error rate.
 
 
 <h2>SQL-Gen: An efficient SQL query generation framework for automated feature engineering</h2>
