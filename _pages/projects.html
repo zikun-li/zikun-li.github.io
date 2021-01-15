@@ -7,17 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>BurstSketch: Finding Bursts in Data Streams</h2>
-
-<img src="/images/burstsketch.png" style="float:right;width:500px;" />
-
-Burst is a common pattern in data streams which is characterized by a sudden increase in terms of arrival rate followed
-by a sudden decrease. Burst detection has attracted extensive attention from the research community. In this paper, we
-propose a novel sketch, namely BurstSketch, to detect bursts accurately in real time. BurstSketch first uses the
-technique Running Track to select potential burst items efficiently, and then monitors the potential burst items and
-capture the key features of burst pattern by a technique called Snapshotting. Experimental results show that our sketch
-achieves a 1.75 times higher recall rate than the strawman solution.
-
 <h2>WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams</h2>
 
 <img src="/images/struct.png" style="float:right;width:500px;" />
@@ -31,6 +20,17 @@ Super-Spreaders. We prove that WavingSketch can provide unbiased estimation, and
 insertion speed and up to 9×10^6 times (2×10^4 times in average) lower error rate in finding frequent items when memory
 size is tight. For other applications, WavingSketch can also achieve up to 286 times lower error rate.
 
+<h2>BurstSketch: Finding Bursts in Data Streams</h2>
+
+<img src="/images/burstsketch.png" style="float:right;width:500px;" />
+
+Burst is a common pattern in data streams which is characterized by a sudden increase in terms of an item's arrival rate
+followed
+by a sudden decrease. Burst detection has attracted extensive attention from the research community. In this paper, we
+propose a novel sketch, namely BurstSketch, to detect bursts accurately in real time. BurstSketch first uses the
+technique Running Track to select potential burst items efficiently, and then monitors the potential burst items and
+capture the key features of burst pattern by a technique called Snapshotting. Experimental results show that our sketch
+achieves a 1.75 times higher recall rate than the strawman solution.
 
 <h2>SQL-Gen: An efficient SQL query generation framework for automated feature engineering</h2>
 
@@ -47,6 +47,7 @@ feature space with a minimum number of trials. In evaluation, SQL-Gen beats prio
 performance of the machine learning models and also in terms of time and computational costs.
 
 <h2>CNN Acceleration with FPGA</h2>
+
 
 <h2>PKURanking</h2>
 
