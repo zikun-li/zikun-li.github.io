@@ -12,7 +12,7 @@ I am Zikun Li, a senior year undergraduate student majoring in computer science 
 
 I am honored to have worked with Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/) at Peking University to learn different algorithms in data analysis and networking measurement, and Prof. [Jiannan Wang](https://www2.cs.sfu.ca/~jnwang/) at SFU on project SQL-Gen, which aims to devised an algorithm that automatically generates SQL expressions which selects certain information from data tables for the machine learning model.
 
-For the time being, I am applying for graduate school in computer science.
+For the time being, I am applying for PhD in computer science.
 
 # News
 
@@ -20,7 +20,7 @@ For the time being, I am applying for graduate school in computer science.
 
 # Research Interest
 
-My research interests lie broadly in database, distributed systems, machine learning systems and their intersections.
+My research interests lie broadly in system, machine learning, data science and their intersection.
 
 # Publication
 - [WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams](https://dl.acm.org/doi/abs/10.1145/3394486.3403208)  
