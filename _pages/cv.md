@@ -39,13 +39,17 @@ A detailed pdf version can be found [here](https://zikun-li.github.io/files/Ziku
 
 ## Research Experience
 
+- <b>A Quantum Super-Optimizer</b>
+  - Carnegie Mellon University, PA, USA, Sep 2021 - Present
+  - Advisor: Dr. [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/) 
+
 - <b>A Sketch-Based Burst Detection Algorithm in High-Speed Data Streams</b>
   - Peking University, Beijing, China, Mar 2020 - Dec 2020
-  - Advisor: Dr. [Tong Yang](http://net.pku.edu.cn/~yangtong/) 
+  - Advisor: Dr. [Tong Yang](https://yangtonghome.github.io/) 
 
 - <b>An Unbiased and Generic Data Structure for Finding Top-K Items in Data Streams</b>
   - Peking University, Beijing, China, Jun 2019 - Feb 2020
-  - Advisor: Dr. [Tong Yang](http://net.pku.edu.cn/~yangtong/) 
+  - Advisor: Dr. [Tong Yang](https://yangtonghome.github.io/) 
 
 - <b>An Automatic SQL-Based Feature Generator for Machine Learning Model</b>
   - Simon Fraser University, BC, Canada, May 2020 - Sep 2020
