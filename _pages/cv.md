@@ -13,7 +13,7 @@ A detailed pdf version can be found [here](https://zikun-li.github.io/files/Ziku
 
 ## Education
 
-- Bachelor of Science in Computer Science and Technology, Peking University, 2017 -- 2021(expected)
+- Bachelor of Science in Computer Science and Technology, Peking University, 2017 -- 2021
 
 ## Honors and Awards
 
@@ -34,8 +34,8 @@ A detailed pdf version can be found [here](https://zikun-li.github.io/files/Ziku
 ## Technical Skills
 
 - Language: C/C++, Java, Python, SQL, Javascript
-- Tools: Git, Github, Docker, Oracle, MySQL, Nginx, Redis
-- Frameworks: Pandas, PyTorch, TensorFlow, Keras
+- Tools: Git, Github, Docker, MySQL, SQLite
+- Frameworks: PyTorch, TensorFlow, Pandas, Flask, React
 
 ## Research Experience
 
