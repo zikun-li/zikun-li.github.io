@@ -23,11 +23,12 @@ For the time being, I am applying for PhD in computer science.
 My research interests lie broadly in system, machine learning, data science and their intersection.
 
 # Publication
+
 - [WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams](https://dl.acm.org/doi/abs/10.1145/3394486.3403208)  
   Jizhou Li\*, <b>Zikun Li\*</b>, Yifei Xu\*, Shiqi Jiang, Tong Yang, Bin Cui, Yafei Dai and Gong Zhang. (\* indicates equal contribution)  
-  In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (SIGKDD), August 2020
+  In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD '20). Association for Computing Machinery, New York, NY, USA, 1574–1584. 
 
-- BurstSketch: Finding Bursts in Data Streams  
-  Zheng Zhong\*, Shen Yan\*, <b>Zikun Li\*</b>, Decheng Tan and Tong Yang. (\* indicates equal contribution)  
-  *To appear at SIGMOD 2021* 
+- [BurstSketch: Finding Bursts in Data Streams](https://dl.acm.org/doi/abs/10.1145/3448016.3452775)
+  Zheng Zhong\*, Shen Yan\*, <b>Zikun Li\*</b>, Decheng Tan, Tong Yang, and Bin Cui. (\* indicates equal contribution)
+  In Proceedings of the 2021 International Conference on Management of Data (SIGMOD/PODS '21). Association for Computing Machinery, New York, NY, USA, 2375–2383. 
 
