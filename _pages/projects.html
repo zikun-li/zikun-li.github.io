@@ -12,11 +12,10 @@ author_profile: true
 <img src="/images/struct.png" style="float:right;width:500px;" />
 
 Finding top-k items in data streams is a fundamental problem in data stream mining. Existing algorithms that can achieve
-unbiased estimation suffer from poor accuracy. In this paper, we propose a new sketch, WavingSketch, which is much more
-accurate than existing unbiased algorithms. WavingSketch is generic for it can be applied to four applications:
-finding top-k frequentitems, finding top-k heavy changes, finding top-k persistent items,and finding top-k
-Super-Spreaders. We prove that WavingSketch can provide unbiased estimation, and then give an error bound
-. Our experimental results show that,compared with the state-of-the-art, WavingSketch has 4.50 times higher
+unbiased estimation suffer from poor accuracy. We propose WavingSketch, which is unbiased, accurate, generic and fast.
+It has four primary use cases: finding top-k frequentitems, finding top-k heavy changes, finding top-k persistent
+items,and finding top-k Super-Spreaders.
+Our experimental results show that,compared with the state-of-the-art, WavingSketch has 4.50 times higher
 insertion speed and up to 9×10^6 times (2×10^4 times in average) lower error rate in finding frequent items when memory
 size is tight. For other applications, WavingSketch can also achieve up to 286 times lower error rate.
 
