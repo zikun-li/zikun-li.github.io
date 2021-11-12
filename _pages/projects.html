@@ -35,12 +35,10 @@ achieves a 1.75 times higher recall rate than the strawman solution.
 
 Feature engineering is a highly time-consuming process in data science, and it takes data scientists much effort to
 construct effective features that boost the performance of machine learning models. Prior works that try to automate
-feature engineering suffer from huge time and computational cost. In this case, we design SQL-Gen. Our work is aimed at
-generating optimal features automatically and efficiently for machine learning models. To be specific, SQL-Gen generates
-SQL statements that select features from relational databases, and it supports multiple clauses and aggregation
-functions so as to enlarge the search space. In the algorithm side, we adopt the idea of hyper-parameter tuning, and
-also integrated transfer learning into our solution. Our algorithm is efficient, because it is able to model the
-feature space with a minimum number of trials. In evaluation, SQL-Gen beats prior works largely in terms of the
+feature engineering suffer from huge time and computational cost. We design SQL-Gen which is aimed at
+generating optimal features automatically and efficiently for machine learning models. Specifically, SQL-Gen generates
+SQL statements that select features from relational databases. In the core of SQL-Gen, we adopt the idea of
+hyper-parameter tuning and transfer learning. In evaluation, SQL-Gen beats prior works largely in terms of the
 performance of the machine learning models and also in terms of time and computational costs.
 
 <h2>PKURanking</h2>
