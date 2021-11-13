@@ -10,7 +10,7 @@ redirect_from:
 
 I am Zikun Li, a senior year undergraduate student majoring in computer science in Peking University. 
 
-I am honored to have worked with Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/) at Peking University to learn and design algorithms in data stream mining, and Prof. [Jiannan Wang](https://www2.cs.sfu.ca/~jnwang/) at SFU on the intersection of database and machine learning.
+I am honored to have worked with Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/) at Peking University to learn and design algorithms in data stream mining. I have also worked with Prof. [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/) at CMU on quantum circuit super-optimization and with Prof. [Jiannan Wang](https://www2.cs.sfu.ca/~jnwang/) at SFU on the intersection of database and machine learning.
 
 For the time being, I am applying for PhD in computer science.
 
