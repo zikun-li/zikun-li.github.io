@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Zikun Li, a graduate student majoring in computer science. I received my Bachelor's degree (2021) at Peking University. 
+I am Zikun Li, a graduate student majoring in computer science. I received my Bachelor's degree at Peking University in 2021. 
 
-I am honored to have worked with Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/) at Peking University to learn and design algorithms in data stream mining. I have also worked with Prof. [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/) at CMU on quantum circuit super-optimization and with Prof. [Jiannan Wang](https://www2.cs.sfu.ca/~jnwang/) at SFU on the intersection of database and machine learning.
+I am honored to have worked with Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/) at Peking University to learn and design algorithms in data stream mining. I am also honored to have worked closely with Prof. [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/) at CMU on quantum circuit super-optimization and with Prof. [Jiannan Wang](https://www2.cs.sfu.ca/~jnwang/) at SFU on the intersection of database and machine learning.
 
 For the time being, I am applying for PhD in computer science.
 
