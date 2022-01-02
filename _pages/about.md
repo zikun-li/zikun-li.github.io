@@ -12,13 +12,13 @@ I am Zikun Li, a graduate student majoring in computer science. I received my Ba
 
 I am lucky to have worked with Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/) at Peking University to learn and design algorithms in data stream mining. I am also honored to have worked closely with Prof. [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/) at CMU on quantum circuit super-optimization and with Prof. [Jiannan Wang](https://www2.cs.sfu.ca/~jnwang/) at SFU on the intersection of database and machine learning.
 
-For the time being, I am applying for PhD in computer science.
+For the time being, I am applying for PhD in Computer Science.
 
 # News
 
 2020/1/11 BurstSketch got accepted by SIGMOD 2021!
 
-# Publication
+# Publications
 
 - [WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams](https://dl.acm.org/doi/abs/10.1145/3394486.3403208)  
   Jizhou Li\*, <b>Zikun Li\*</b>, Yifei Xu\*, Shiqi Jiang, Tong Yang, Bin Cui, Yafei Dai and Gong Zhang. (\* indicates equal contribution)  

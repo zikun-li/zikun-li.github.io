@@ -7,6 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>Quartz: Superoptimization of Quantum Circuits</h2>
+
+<img src="/images/struct.png" style="float:right;width:500px;" />
+
+Existing quantum compilers optimize quantum circuits by applying circuit transformations designed by experts. This
+approach requires significant manual effort to design and implement circuit transformations for different quantum
+devices, which use different gate sets, and can miss subtle optimizations that are hard to find manually.
+We propose Quartz, a quantum circuit superoptimizer that automatically generates and verifies circuit transformations
+for arbitrary quantum gate sets. Given a gate set, Quartz generates possible circuit transformations by enumerating
+small circuits over the given gate set, and verifies them with a automated theorm solver. Quartz then applies the
+verified transformations to optimize quantum circuits.
+Evaluation shows that the transformations generated and verified by Quartz cover the manually designed ones used by
+existing optimizers, and Quartz's optimizer matches the performance of existing optimizers on one gate set for which
+they are tuned, and outperforms them on the two other gate sets.
+
 <h2>WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams</h2>
 
 <img src="/images/struct.png" style="float:right;width:500px;" />
