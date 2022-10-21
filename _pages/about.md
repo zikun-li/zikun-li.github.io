@@ -22,15 +22,11 @@ For the time being, I am applying for PhD in Computer Science.
 
 # Publications
 
-- [Quartz: superoptimization of Quantum circuits](https://dl.acm.org/doi/pdf/10.1145/3519939.3523433)
+- \[PLDI '22\][Quartz: superoptimization of Quantum circuits](https://dl.acm.org/doi/pdf/10.1145/3519939.3523433)
   Mingkuan Xu, <b>Zikun Li</b>, Oded Padon, Sina Lin, Jessica Pointing, Auguste Hirth, Henry Ma, Jens Palsberg, Alex Aiken, Umut A Acar, and Zhihao Jia
 
 - \[SIGMOD '21\][BurstSketch: Finding Bursts in Data Streams](https://dl.acm.org/doi/abs/10.1145/3448016.3452775)
   Zheng Zhong\*, Shen Yan\*, <b>Zikun Li\*</b>, Decheng Tan, Tong Yang, and Bin Cui. (\* indicates equal contribution)
-  In Proceedings of the 2021 International Conference on Management of Data (SIGMOD/PODS '21). Association for Computing Machinery, New York, NY, USA, 2375–2383. 
 
-- [WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams](https://dl.acm.org/doi/abs/10.1145/3394486.3403208)  
+- \[SIGKDD '20\][WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams](https://dl.acm.org/doi/abs/10.1145/3394486.3403208)  
   Jizhou Li\*, <b>Zikun Li\*</b>, Yifei Xu\*, Shiqi Jiang, Tong Yang, Bin Cui, Yafei Dai and Gong Zhang. (\* indicates equal contribution)  
-  In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD '20). Association for Computing Machinery, New York, NY, USA, 1574–1584. 
-
-
