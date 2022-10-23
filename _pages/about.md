@@ -8,12 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Zikun Li, a PhD student majoring in Computer Science. I received my Bachelor's degree at Peking University in 2021. My research interests are in networked systems, data mining, machine learning, systems for quantum computing and their intersection.
-
-I am lucky to have worked with Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/) at Peking University to learn and design algorithms in data stream mining. I am also honored to have worked closely with Prof. [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/) at CMU on quantum circuit super-optimization and with Prof. [Jiannan Wang](https://www2.cs.sfu.ca/~jnwang/) at SFU on the intersection of database and machine learning.
-
-For the time being, I am applying for PhD in Computer Science.
-
+I am Zikun Li, a fist-year PhD student at the Computer Science Department of Carnegie Mellon University, and honorably advised by Prof. [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/). My research interests are in Quantum Computing Systems, Reinforcement Learning and their intersection.  
+I received my Bachelor's degree in Computer Science at Peking University in 2021. At PKU, I am lucky to have worked with Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/) on designing algorithms in data stream mining.
 <!-- # News
 
 
