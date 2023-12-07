@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Zikun Li, a fist-year PhD student at Computer Science Department of Carnegie Mellon University, and honorably advised by Prof. [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/). My research interests are in Quantum Computing Systems, Reinforcement Learning and their intersection.  
-I received my Bachelor's degree in Computer Science at Peking University in 2021. At PKU, I am lucky to have worked with Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/) on designing algorithms in data stream mining.
+<!-- I am Zikun Li, a second-year PhD student at Computer Science Department of Carnegie Mellon University, and honorably advised by Prof. [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/). My research interests are in Reinforcement Learning, Large Language Models and their intersections with computer systems.   -->
+<!-- I received my Bachelor's degree in Computer Science at Peking University in 2021. At PKU, I am lucky to have worked with Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/) on designing algorithms in data stream mining. -->
+Hello! I'm Zikun Li, currently in my second year as a PhD candidate at the Computer Science Department of Carnegie Mellon University, under the esteemed guidance of Prof. Zhihao Jia. My research primarily revolves around Reinforcement Learning and Large Language Models, particularly exploring their synergy with computer systems.
+
+I graduated with a Bachelor's degree in Computer Science from Peking University in 2021. My time at PKU was enriched by the opportunity to collaborate with Prof. Tong Yang on developing advanced algorithms for data stream mining.
 
 # Publications
 
