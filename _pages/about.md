@@ -14,7 +14,14 @@ Hello! I'm Zikun Li, currently in my second year as a PhD candidate at the Compu
 
 I graduated with a Bachelor's degree in Computer Science from Peking University in 2021. My time at PKU was enriched by the opportunity to collaborate with Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/) on developing advanced algorithms for data stream mining.
 
+# News
+
+23/12/2023 Quarl got accepted by OOPSLA '24! 
+
 # Publications
+
+- \[OOPSLA '24\][Quarl: A Learning-Based Quantum Circuit Optimizer](https://arxiv.org/abs/2307.10120)  
+  <b>Zikun Li</b>, Jinjun Peng, Yixuan Mei, Sina Lin, Yi Wu, Oded Padon, and Zhihao Jia
 
 - \[PLDI '22\][Quartz: superoptimization of Quantum circuits](https://dl.acm.org/doi/pdf/10.1145/3519939.3523433)  
   Mingkuan Xu, <b>Zikun Li</b>, Oded Padon, Sina Lin, Jessica Pointing, Auguste Hirth, Henry Ma, Jens Palsberg, Alex Aiken, Umut A Acar, and Zhihao Jia
@@ -24,3 +31,7 @@ I graduated with a Bachelor's degree in Computer Science from Peking University 
 
 - \[SIGKDD '20\][WavingSketch: An Unbiased and Generic Sketch for Finding Top-k Items in Data Streams](https://dl.acm.org/doi/abs/10.1145/3394486.3403208)  
   Jizhou Li\*, <b>Zikun Li\*</b>, Yifei Xu\*, Shiqi Jiang, Tong Yang, Bin Cui, Yafei Dai and Gong Zhang. (\* indicates equal contribution)  
+
+# Teaching
+
+- TA of 15418/618 Parallel Computer Architecture and Programming 2023 Fall 
