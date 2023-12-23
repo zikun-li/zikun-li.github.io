@@ -35,3 +35,7 @@ I graduated with a Bachelor's degree in Computer Science from Peking University 
 # Teaching
 
 - TA of 15418/618 Parallel Computer Architecture and Programming, 2023 Fall 
+
+# Miscellaneous
+
+- I play tennis &#129358; in my spare time.
