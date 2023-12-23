@@ -16,7 +16,7 @@ I graduated with a Bachelor's degree in Computer Science from Peking University 
 
 # News
 
-23/12/2023 Quarl got accepted by OOPSLA '24! 
+23/12/2023 Quarl got accepted by OOPSLA '24! &#127882
 
 # Publications
 
