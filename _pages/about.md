@@ -23,7 +23,6 @@ I graduated with a Bachelor's degree in Computer Science from Peking University 
 # Preprints
 
 - [AdaServe: SLO-Customized LLM Serving with Fine-Grained Speculative Decoding](https://arxiv.org/abs/2501.12162v1)
-  
   <b>Zikun Li\*</b>, Zhuofu Chen\*, Remi Delacourt, Gabriele Oliaro, Zeyu Wang, Qinghan Chen, Shuhuai Lin, April Yang, Zhihao Zhang, Zhuoming Chen, Sean Lai, Xupeng Miao and Zhihao Jia (\* indicates equal contribution)
 
 
