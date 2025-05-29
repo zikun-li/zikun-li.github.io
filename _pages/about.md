@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Zikun Li, currently in my third year as a PhD candidate at the Computer Science Department of Carnegie Mellon University, under the esteemed guidance of Prof. [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/). My research primarily revolves around Computer Systems for Large Language Models.
+Hello! I'm Zikun Li, currently in my third year as a PhD candidate at the Computer Science Department of Carnegie Mellon University, under the esteemed guidance of Prof. [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/). My research primarily revolves around Computer Systems.
 
 I graduated with a Bachelor's degree in Computer Science from Peking University in 2021. My time at PKU was enriched by the opportunity to collaborate with Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/) on developing advanced algorithms for data stream mining.
 
