@@ -18,12 +18,12 @@ I graduated with a Bachelor's degree in Computer Science from Peking University 
 
 23/01/2025 TidalDecode is accepted by ICLR '25! &#127882;
 
-23/12/2023 Quarl got accepted by OOPSLA '24! &#127882;
+<!-- 23/12/2023 Quarl got accepted by OOPSLA '24! &#127882; -->
 
 # Preprints
 
-- [AdaServe: SLO-Customized LLM Serving with Fine-Grained Speculative Decoding](https://arxiv.org/abs/2501.12162v1)<br>
-  <b>Zikun Li\*</b>, Zhuofu Chen\*, Remi Delacourt, Gabriele Oliaro, Zeyu Wang, Qinghan Chen, Shuhuai Lin, April Yang, Zhihao Zhang, Zhuoming Chen, Sean Lai, Xupeng Miao and Zhihao Jia (\* indicates equal contribution)
+- [AdaServe: Accelerating Multi-SLO LLM Serving with SLO-Customized Speculative Decoding](https://arxiv.org/abs/2501.12162v2)<br>
+  <b>Zikun Li\*</b>, Zhuofu Chen\*, Remi Delacourt, Gabriele Oliaro, Zeyu Wang, Qinghan Chen, Shuhuai Lin, April Yang, Zhihao Zhang, Zhuoming Chen, Sean Lai, Xinhao Cheng, Xupeng Miao and Zhihao Jia (\* indicates equal contribution)
 
 
 
