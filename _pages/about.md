@@ -14,20 +14,23 @@ I graduated with a Bachelor's degree in Computer Science from Peking University 
 
 # News
 
+23/08/2025 AdaServe is accepted by EuroSys '26! &#127882;
+
 23/01/2025 We release AdaServe, a system for high-throughput SLO-customized LLM serving with speculative decoding. Check it out [here](https://arxiv.org/abs/2501.12162v1)!
 
 23/01/2025 TidalDecode is accepted by ICLR '25! &#127882;
 
 <!-- 23/12/2023 Quarl got accepted by OOPSLA '24! &#127882; -->
 
-# Preprints
+<!-- # Preprints -->
 
-- [AdaServe: Accelerating Multi-SLO LLM Serving with SLO-Customized Speculative Decoding](https://arxiv.org/abs/2501.12162v2)<br>
-  <b>Zikun Li\*</b>, Zhuofu Chen\*, Remi Delacourt, Gabriele Oliaro, Zeyu Wang, Qinghan Chen, Shuhuai Lin, April Yang, Zhihao Zhang, Zhuoming Chen, Sean Lai, Xinhao Cheng, Xupeng Miao and Zhihao Jia (\* indicates equal contribution)
 
 
 
 # Publications
+
+- \[EuroSys '26\] [AdaServe: Accelerating Multi-SLO LLM Serving with SLO-Customized Speculative Decoding](https://arxiv.org/abs/2501.12162v2)<br>
+  <b>Zikun Li\*</b>, Zhuofu Chen\*, Remi Delacourt, Gabriele Oliaro, Zeyu Wang, Qinghan Chen, Shuhuai Lin, April Yang, Zhihao Zhang, Zhuoming Chen, Sean Lai, Xinhao Cheng, Xupeng Miao and Zhihao Jia (\* indicates equal contribution)
 
 - \[ICLR '25\] [TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention](https://arxiv.org/abs/2410.05076)  
   Lijie Yang\*, Zhihao Zhang\*, Zhuofu Chen, <b>Zikun Li</b> and Zhihao Jia (\* indicates equal contribution)
