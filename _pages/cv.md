@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-A detailed pdf version can be found [here](https://zikun-li.github.io/files/Zikun_Li_CV.pdf).
+A detailed pdf version can be found [here](https://zikun-li.github.io/files/Zikun_Li_Resume.pdf).
 
-## Education
+<!-- ## Education
 
 - Bachelor of Science in Computer Science and Technology, Peking University, 2017 -- 2021
 
@@ -53,4 +53,4 @@ A detailed pdf version can be found [here](https://zikun-li.github.io/files/Ziku
 
 - <b>An Automatic SQL-Based Feature Generator for Machine Learning Model</b>
   - Simon Fraser University, BC, Canada, May 2020 - Sep 2020
-  - Advisor: Dr. [Jiannan Wang](https://www2.cs.sfu.ca/~jnwang/)
+  - Advisor: Dr. [Jiannan Wang](https://www2.cs.sfu.ca/~jnwang/) -->
