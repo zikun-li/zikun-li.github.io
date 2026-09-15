@@ -14,6 +14,8 @@ I graduated with a Bachelor's degree in Computer Science from Peking University 
 
 # News
 
+14/09/2026 Our OpWeave preprint on flexible operator disaggregation for heterogeneous LLM serving is now available on arXiv. Check it out [here](https://arxiv.org/abs/2609.14237)!
+
 23/08/2025 AdaServe is accepted by EuroSys '26! &#127882;
 
 23/01/2025 We release AdaServe, a system for high-throughput SLO-customized LLM serving with speculative decoding. Check it out [here](https://arxiv.org/abs/2501.12162v1)!
