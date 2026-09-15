@@ -29,6 +29,9 @@ I graduated with a Bachelor's degree in Computer Science from Peking University 
 
 # Publications
 
+- \[Preprint\] [OpWeave: Flexible Operator Disaggregation for Heterogeneous LLM Serving](https://arxiv.org/abs/2609.14237)<br>
+  <b>Zikun Li\*</b>, Yixuan Mei\*, Shiqi Pan, Zixuan Chen, Xiaowen Zhang, Mengdi Wu, Shuhuai Lin, Yutong Yang, Zhihao Zhang, Xupeng Miao, Rashmi Vinayak and Zhihao Jia (\* indicates equal contribution)
+
 - \[EuroSys '26\] [AdaServe: Accelerating Multi-SLO LLM Serving with SLO-Customized Speculative Decoding](https://arxiv.org/abs/2501.12162v2)<br>
   <b>Zikun Li\*</b>, Zhuofu Chen\*, Remi Delacourt, Gabriele Oliaro, Zeyu Wang, Qinghan Chen, Shuhuai Lin, April Yang, Zhihao Zhang, Zhuoming Chen, Sean Lai, Xinhao Cheng, Xupeng Miao and Zhihao Jia (\* indicates equal contribution)
 
