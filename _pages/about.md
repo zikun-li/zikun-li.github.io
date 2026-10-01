@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p style="color: #a51c30;"><strong>✉️ I’ll be on the job market in 2027. Happy to connect about opportunities!</strong></p>
+<p style="color: #a51c30;"><strong>I’ll be on the job market in 2027. Happy to connect about opportunities!</strong></p>
 
 Hello! I'm Zikun Li, currently in my third year as a PhD candidate at the Computer Science Department of Carnegie Mellon University, under the esteemed guidance of Prof. [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/). My research primarily revolves around Computer Systems.
 
