@@ -10,11 +10,7 @@ redirect_from:
 
 <p style="color: #a51c30;"><strong>I’ll be on the job market in 2027. Happy to connect about opportunities!</strong></p>
 
-Hello! I'm Zikun Li, currently in my third year as a PhD candidate at the Computer Science Department of Carnegie Mellon University, under the esteemed guidance of Prof. [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/). My research primarily revolves around Computer Systems.
-
-My research interests include **Efficient LLM Architectures**, **LLM Training**, **LLM Inference**, and **Reinforcement Learning**.
-
-I graduated with a Bachelor's degree in Computer Science from Peking University in 2021. My time at PKU was enriched by the opportunity to collaborate with Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/) on developing advanced algorithms for data stream mining.
+Hello! I’m Zikun Li, a PhD candidate in the Computer Science Department at Carnegie Mellon University, advised by Prof. [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/). My research focuses on making large language models more efficient, with interests in **Efficient LLM Architectures**, **Efficient LLM Training and Inference Algorithms**, and **Reinforcement Learning**. I received my bachelor’s degree in Computer Science from Peking University in 2021, where I worked with Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/) on algorithms for data stream mining.
 
 # News
 
