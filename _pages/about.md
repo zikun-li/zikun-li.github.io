@@ -31,19 +31,19 @@ Hello! I’m Zikun Li, a PhD candidate in the Computer Science Department at Car
 
 # Publications
 
-- \[Preprint\] [OpWeave: Flexible Operator Disaggregation for Heterogeneous LLM Serving](https://arxiv.org/abs/2609.14237)<br>
+- \[Preprint\] [OpWeave: Flexible Operator Disaggregation for Heterogeneous LLM Serving](https://arxiv.org/abs/2609.14237) <strong>[LLM Inference]</strong><br>
   <b>Zikun Li\*</b>, Yixuan Mei\*, Shiqi Pan, Zixuan Chen, Xiaowen Zhang, Mengdi Wu, Shuhuai Lin, Yutong Yang, Zhihao Zhang, Xupeng Miao, Rashmi Vinayak and Zhihao Jia (\* indicates equal contribution)
 
-- \[Preprint\] [Coral: Cost-Efficient Multi-LLM Serving over Heterogeneous Cloud GPUs](https://arxiv.org/abs/2605.04357)<br>
+- \[Preprint\] [Coral: Cost-Efficient Multi-LLM Serving over Heterogeneous Cloud GPUs](https://arxiv.org/abs/2605.04357) <strong>[LLM Inference]</strong><br>
   Yixuan Mei, <b>Zikun Li</b>, Zixuan Chen, Shiqi Pan, Mengdi Wu, Xupeng Miao, Zhihao Jia and K. V. Rashmi
 
-- \[EuroSys '26\] [AdaServe: Accelerating Multi-SLO LLM Serving with SLO-Customized Speculative Decoding](https://arxiv.org/abs/2501.12162v2)<br>
+- \[EuroSys '26\] [AdaServe: Accelerating Multi-SLO LLM Serving with SLO-Customized Speculative Decoding](https://arxiv.org/abs/2501.12162v2) <strong>[Speculative Decoding]</strong><br>
   <b>Zikun Li\*</b>, Zhuofu Chen\*, Remi Delacourt, Gabriele Oliaro, Zeyu Wang, Qinghan Chen, Shuhuai Lin, April Yang, Zhihao Zhang, Zhuoming Chen, Sean Lai, Xinhao Cheng, Xupeng Miao and Zhihao Jia (\* indicates equal contribution)
 
-- \[ICLR '25\] [TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention](https://arxiv.org/abs/2410.05076)  
+- \[ICLR '25\] [TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention](https://arxiv.org/abs/2410.05076) <strong>[Sparse Attention]</strong><br>
   Lijie Yang\*, Zhihao Zhang\*, Zhuofu Chen, <b>Zikun Li</b> and Zhihao Jia (\* indicates equal contribution)
 
-- \[OOPSLA '24\] [Quarl: A Learning-Based Quantum Circuit Optimizer](https://arxiv.org/abs/2307.10120)  
+- \[OOPSLA '24\] [Quarl: A Learning-Based Quantum Circuit Optimizer](https://arxiv.org/abs/2307.10120) <strong>[Reinforcement Learning]</strong><br>
   <b>Zikun Li</b>, Jinjun Peng, Yixuan Mei, Sina Lin, Yi Wu, Oded Padon and Zhihao Jia
 
 - \[PLDI '22\] [Quartz: superoptimization of Quantum circuits](https://dl.acm.org/doi/pdf/10.1145/3519939.3523433)  
