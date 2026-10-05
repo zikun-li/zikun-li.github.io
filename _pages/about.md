@@ -12,6 +12,8 @@ redirect_from:
 
 Hello! I’m Zikun Li, a PhD candidate in the Computer Science Department at Carnegie Mellon University, advised by Prof. [Zhihao Jia](https://www.cs.cmu.edu/~zhihaoj2/). My research focuses on making large language models more efficient, with interests in **Efficient LLM Architectures**, **Efficient LLM Training and Inference Algorithms**, and **Reinforcement Learning**. I received my bachelor’s degree in Computer Science from Peking University in 2021, where I worked with Prof. [Tong Yang](http://net.pku.edu.cn/~yangtong/) on algorithms for data stream mining.
 
+<p><a class="btn btn--info" href="{{ site.baseurl }}/files/Zikun_Li_Resume.pdf">CV (PDF)</a></p>
+
 # News
 
 14/09/2026 Our OpWeave preprint on flexible operator disaggregation for heterogeneous LLM serving is now available on arXiv. Check it out [here](https://arxiv.org/abs/2609.14237)!
